@@ -1,0 +1,7 @@
+pdb.example:
+  path: '/admin/pdb'
+  defaults:
+    _title: 'Admin Home'
+    _controller: '\Drupal\pdb\Controller\PdbController::index'
+  requirements:
+    _permission: 'access content'

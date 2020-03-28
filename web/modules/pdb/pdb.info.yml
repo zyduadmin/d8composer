@@ -1,0 +1,6 @@
+name: Property Database
+type: module
+description: Common features of the property management system
+package: Property
+core: 8.x
+core_version_requirement: ^8 || ^9
